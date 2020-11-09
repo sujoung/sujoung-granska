@@ -1,0 +1,9 @@
+../rulesets/wille/regelsamling.ver8.opt
+lex/*/fast
+scrutinizer/*.txt
+scrutinizer/ut*
+scrutinizer/*csv*
+scrutinizer/*Csv*
+scrutinizer/skrutten*
+scrutinizer/demo*
+scrutinizer/Makefile.bak
